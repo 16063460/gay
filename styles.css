@@ -55,3 +55,14 @@ color: #a37b71;
 
 .nav li{ last-child
  border-right: none}
+
+ .about{ last-child
+   border-right: none;
+   background-color: rgba(138,168,132, 1);
+   font-size: 5.0rem;
+   height: 210px;
+   font-size: sans-serif;
+   margin-top: 62px;
+   text-align: inherit;
+
+ }
